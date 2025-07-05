@@ -5,7 +5,7 @@
 
 <!-- Short Bio -->
 <p align="center">
-  👨‍💻 Passionate about <b>Open Source</b>, <b>Web Development</b>, and <b>Hacker Ethics</b><br>
+  👨‍💻 Passionate about <b>Open Source</b>, <b>Web Development</b>, and <b>Ethical Hacking</b><br>
   🎯 Building real-world projects with clean design and readable code.<br>
 </p>
 
