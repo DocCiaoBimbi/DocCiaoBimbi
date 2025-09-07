@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center" style="margin-bottom: 2rem;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=200&section=header&text=👋%20Ciao%2C%20sono%20Davidei!&fontSize=40&fontAlign=70&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=200&section=header&text=👋%20Ciao%2C%20sono%20Davide!&fontSize=40&fontAlign=70&fontColor=ffffff" />
 </p>
 
 <!-- Language Switch as Badges with Flags -->
